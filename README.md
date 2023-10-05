@@ -145,3 +145,6 @@ We will clone and build it from your GitHub repo. We will not get code from any 
     * 1 pt: Choose another developer option from the Developer Options screen, research what it's used for, and write up a quick paragraph (in your copy of this README file) on whether you believe you will use this feature during class this quarter.
 
 When you turn in the homework in Canvas, put in the link to your GitHub repo.
+
+Extra Credit:
+A developer option I chose was strict mode enabled. I think we will use this option as it tells us when the app is not optimized and is running for too long on the main thread. This also gives the developer a heads up on potential issues that can cause the interface to freeze.
